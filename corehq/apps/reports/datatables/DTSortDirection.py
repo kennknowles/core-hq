@@ -1,2 +1,0 @@
-ASC = "asc"
-DSC = "desc"
